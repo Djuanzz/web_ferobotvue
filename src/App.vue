@@ -1,6 +1,5 @@
 <script setup>
 // import HelloWorld from './components/HelloWorld.vue'
-// import ROSLIB from "../node_modules/roslib";
 import Home from "./components/home/Home.vue";
 import Navbar from "./components/navbar/Navbar.vue";
 import Feature from "./components/feature/Feature.vue";

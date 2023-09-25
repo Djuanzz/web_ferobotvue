@@ -17,8 +17,6 @@
 <script>
 import "./home.css";
 
-let ros = new ROSLIB.ros();
-
 export default {
   name: "Home",
 };
